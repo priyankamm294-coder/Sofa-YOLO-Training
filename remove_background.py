@@ -10,9 +10,7 @@ from ultralytics import YOLO
 # MODEL PATH
 # ============================================================
 
-MODEL_PATH = r"runs\segment\runs\sofa_segmentation\weights\best.pt"
-
-
+MODEL_PATH = r"models\best.pt"
 # ============================================================
 # ASK USER FOR IMAGE PATH
 # ============================================================
